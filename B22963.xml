@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd upon the death of that pious and learned divine, John Collinges, D.D. the 25th day of January, 1690 : from Acts 13, 36 / by Martin Fynch ...</title>
+            <author>Finch, Martin, 1628?-1698.</author>
+         </titleStmt>
+         <extent>Approx. 93KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22963</idno><idno type="EEBO-CITATION">19372451</idno>
+  <idno type="VID">205484</idno>
+  <idno type="EEBO-PROQUEST">2240886633</idno>
+  
+            <idno type="STC">Wing F945</idno>
+            <idno type="OCLC">19372451</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205484)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1669:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd upon the death of that pious and learned divine, John Collinges, D.D. the 25th day of January, 1690 : from Acts 13, 36 / by Martin Fynch ...</title>
+                  <author>Finch, Martin, 1628?-1698.</author>
+               </titleStmt>
+               <extent>iv, 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Giles ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped and stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Collinges, John, 1623-1690 --  Sermons.</term>
+               <term type="uniform_title">Bible. --  N.T. --  Acts XIII, 36 --  Sermons.</term>
+               <term type="topical_term">Funeral sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205484:1"/>
+            <p>A SERMON Preach'd upon the DEATH OF THAT Pious and Learned DIVINE, <hi>John Collinges,</hi> D. D.</p>
+            <p>The <hi>25th</hi> Day of <hi>January,</hi> 1690.</p>
+            <p>From <hi>Acts</hi> 13. 36.</p>
+            <p>By <hi>MARTIN FYNCH,</hi> Pastor of a Church of Christ in the City of <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Giles</hi> Bookseller in <hi>Norwich,</hi> near the Market place, 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:205484:2"/>
+            <pb n="iii" facs="tcp:205484:2"/>
+            <head>To my Honoured Friend Mr. <hi>JOHN BARNHAM,</hi> of the City of <hi>Norwich.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Was earnestly desired to print this Sermon soon after it was preached; but I refused, and thought it would not have been urged any more: but one Friend lately brought me the Sermon as it was taken in Short-hand, desiring me that I would look it over that it might be printed. I thought now I had a Reason that would satisfy, alledging that it was an un<g ref="char:EOLhyphen"/>usual thing to print a Funeral Sermon so long after the preach<g ref="char:EOLhyphen"/>ing of it; but that would not satisfy. Then I intreated your self to take off that Friend and others from their Importunity; but instead of that you told me, that it would be printed with<g ref="char:EOLhyphen"/>out my Consent, and desired me not to withstand it any longer. Therefore now I leave it wholly to your dispose, and if it be made publick, the Lord bless this poor Labour, that it may be for his Glory, and the good of those that shall read it.</p>
+            <p>I have been long acquainted with you, and have been much obliged to you; God called you by his Grace in your young Time, and you are now an old Disciple of Jesus Christ.</p>
+            <p>You have found Christ precious to your Soul here; but how precious will he be in Heaven? Now we love to think, and
+<pb n="iv" facs="tcp:205484:3"/> speak, and hear of him, of his Person, and of his Benefits; but O what Love and Praise when we shall see him as he is, when we shall be with him to behold his Glory in Heaven!</p>
+            <p>We grow old, and through the infinite Mercy of God in Christ, hope to come soon to our everlasting Rest.</p>
+            <p>God hath lately taken away the desire of your Eyes with a Stroak, she was a Mother in <hi>Israel,</hi> one that feared the Lord, and served him in her Generation above many. Be thankful to God, that you so long enjoyed such a comfortable Yoak-fellow, such a Meet-help for Heaven and Earth. All Relations must have a Parting, and that a final One for this World; but the Saints shall meet in Heaven, where their Com<g ref="char:EOLhyphen"/>munion will be far sweeter than it was on Earth, where God, blessed for ever, will fill them with everlasting Joy, and there shall be no more Sin, no more Sorrow, no more Temptation, but admiring and praising God to Eternity.</p>
+            <p>The God of all Grace carry us an end in his Ways, make our last Days our best Days, for Holiness, and Joy, and Peace in believing; guide us by his Counsels, and afterwards receive us to Glory.</p>
+            <closer>
+               <salute>SIR,</salute>
+               <lb/>
+               <signed>Yours in the Lord to love and serve you,<lb/>
+                  <hi>Martin Fynch.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:205484:3"/>
+            <epigraph>
+               <bibl>Acts 13. 36.</bibl>
+               <q>For <hi>David,</hi> after he had served his own Generation by the Will of God, fell on sleep, and was laid unto his Fathers, and saw Corruption.</q>
+            </epigraph>
+            <p>THE Argument which the Apostle <hi>Paul</hi> is here insisting upon, is <hi>the Resurrection of our Lord and Saviour Jesus Christ,</hi> a Fundamental Article of the Christian Religion, a Point of special Note in the Gospel.</p>
+            <p>The Apostle <hi>Peter</hi> in his Sermon, when so many were converted, <hi>Acts</hi> 2. 23, to <hi>ver.</hi> 37. he also preached of the Resurrection of the Lord Jesus Christ. It is said here in this <hi>13th</hi> Chap. <hi>ver.</hi> 29. that <hi>when they had fulfilled all that was written of him, they took him down from the Tree and laid him in a Sepulchre.</hi> You have a particular Account of it in the Evangelists <note n="*" place="margin">Mat. 27. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 58, 59. Mar. 15. 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 44, 45. Luk. 23. 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 51, 52. Joh. 19. 38, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 40, 41, 42.</note>, how <hi>Joseph</hi> of <hi>Arimathea,</hi> and <hi>Nicodemus,</hi> who were before faint-hearted Disciples in comparison of the Apo<g ref="char:EOLhyphen"/>stles, were fill'd with a holy Courage, and took care of <hi>burying the Body of Jesus. The Lord can animate weak Believers in a time of Danger, to venture upon great Service.</hi> The Apostle <hi>Peter,</hi> and the rest, they were fearful and fled; but the Spirit of God came upon <hi>Joseph,</hi> but secretly for fear of the Jews, and <hi>Nicodemus</hi> who first came to Jesus by Night: and <hi>now they were bold in the Lord,</hi> to ex<g ref="char:EOLhyphen"/>pose and hazard themselves to lay Christ in the Sepulchre. Let not those that are Strong, despise the Weak; your Hearts may fail you in a perilous Time, and timorous weak Professors may be as bold as Lions in the Cause of God, through the Influences and Sup<g ref="char:EOLhyphen"/>plies of the Spirit.</p>
+            <p>It follows; <hi>But God raised him from the Dead,</hi> ver. 30. <hi>and he was seen many Days of them that came with him from</hi> Galilee <hi>to</hi> Jerusalem, <hi>who are Witnesses to the People. And we declare unto you glad Tidings, how that the Promise made unto the Fathers, God hath fulfilled the same unto us their Children, in that he hath raised up Jesus again.</hi>
+            </p>
+            <p>By the way observe; That we are to believe that Jesus died for our Sins; that he was buried, laid in the Sepulchre, and that he rose again the third Day: But for that Expression, <hi>He descended in<g ref="char:EOLhyphen"/>to
+<pb n="2" facs="tcp:205484:4"/> Hell,</hi> 'tis a perplexing Expression, that is hard to be understood, and some put strange Interpretations upon it; that Expression hath not been always in the <hi>Creed,</hi> tho it may have a sound Sense put upon it.</p>
+            <p>I pray let me call 1 <hi>Cor. 14. 3, 4. the Apostles Creed,</hi> as to those Ar<g ref="char:EOLhyphen"/>ticles of the Death, Burial, and * Resurrection of Christ, and let us <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 53. 5, 6. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 4. <hi>last.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 2. 24. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 3. 1, 8. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. 5. <hi>last.</hi>
+               </note> rest satisfied with it; saith the Apostle there, <hi>I delivered unto you first of all that Christ died for our Sins.]</hi> Ay, this is explicit and plain, the Apostle shews wherefore Christ was crucified and died, it was for our Sins; <hi>He bare our Sins in his own Body upon the Tree; He suffered for our Sins, the Just for the Ʋnjust, that he might bring us to God. He was made Sin for us, who himself knew no Sin, that we might be made the Righteousness of God in him.</hi> Then the Apostle saith, He was <hi>buried],</hi> his Soul was that Day in Paradise in Heaven, <hi>Luke</hi> 23. 43. his Body laid in the Sepulchre; this is the Account the Apostle gives of these Articles of the Christian Religion. And then he saith, <hi>the third Day he arose again],</hi> then his Soul, which was separated from his Body, was reunited to his Body; and thus he was raised from the Dead.</p>
+            <p>Christ was buried, that we might not doubt but that he re<g ref="char:EOLhyphen"/>ally <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ultura <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>isti est re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Christia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Ambros.</hi>
+               </note> died: Christ was buried, that our Sins might be buried with him: Christ was buried, to sanctify and sweeten the Bed of the Grave to his People, till their Bodies awake at the Resurre<g ref="char:EOLhyphen"/>ction.</p>
+            <p>The Apostle at the end of Verse 33, brings several Scriptures of the Old Testament about the Resurrection of the Lord Jesus.</p>
+            <p>The first is <hi>Psal. 2. 7. Thou art my Son, this Day have I begotten thee.</hi> It is true, our Lord Jesus is God by Nature, and from Ever<g ref="char:EOLhyphen"/>lasting, Coequal, Consubstantial, and Coeternal with the Father; but when he took upon him our humane Nature, his Godhead was vailed and obscured, that few could see his Godhead when he was here upon the Earth, and when he condescended so much as to suf<g ref="char:EOLhyphen"/>fer Death for our Sins; but <hi>he was declared to be the Son of God with Power, by the Resurrection from the Dead,</hi> Rom. 1. 4. He was * the <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icah 5. 2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov. 8. 22, 23. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. 1. 1, 2, 3.</note> Son of God by eternal Generation; but when the Word was made Flesh, and dwelt 33 Years amongst us on the Earth, his Godhead was vailed and covered, and <hi>especially</hi> when he died upon the Cross. But then when he was raised from the Dead, he was declared to be the Son of God. Many things are said in the Scripture to be, when they are plainly declared and manifested to be; and so our Lord and Saviour Jesus Christ, who was the only begotten Son of
+<pb n="3" facs="tcp:205484:4"/> God from all Eternity, was then said to be begotten declaratively when he was raised from the Dead.</p>
+            <p>The second Place the Apostle makes use of concerning the Resur<g ref="char:EOLhyphen"/>rection of the Lord Jesus, is <hi>ver. 34. And as concerning that he raised him from the Dead, now no more to see Corruption, he said on this wise, I will give you the sure Mercies of</hi> David; this you have <hi>Isa.</hi> 55. 3. Now if Christ had not risen from the Dead, we could not have had the sure, stable, and everlasting Mercies that God promised to <hi>David,</hi> Justification, and Life Everlasting; so some expound it. But there is a fuller Exposition of that Expression, <hi>I will give you the sure Mercies of</hi> David: That by <hi>David</hi> there is meant the <hi>Messias, the Lord Jesus of whom</hi> David <hi>was a Type:</hi> I will make an Everlasting Covenant with you, and give you the sure Mercies of <hi>the Spiritual David:</hi> And therefore this true Spiritual <hi>David</hi> must not only die for his People, but he must rise again, or else we could not have the sure, stable, and everlasting Mercies that come by the <hi>Messiah,</hi> the true <hi>David:</hi> And so the Apostle argues, 1 <hi>Cor. 15. 17. If Christ be not raised, your Faith is vain, ye are yet in your Sins; then they also that are fallen asleep in Christ, are perished.</hi> And <hi>Rom. 8. 34. Who is he that condemneth? It is Christ that died, yea, rather that is ri<g ref="char:EOLhyphen"/>sen again.</hi> And <hi>Joh.</hi> 16. 9. our Saviour shews, that the Spirit shall convince and make manifest, that he hath made an end of Sin, and brought in an Everlasting Righteousness for the Justification of Life for all for whom he died, because, saith he, <hi>I go to the Father, and ye see me no more;</hi> that is, because I rise again, and go to be glorified in my humane Nature in Heaven, and you see me no more to die again, to put away Sin by the Sacrifice of my self: It is evident by this that I make full Satisfaction, and obtain eternal Redemption for those for whom I undertake to be Surety and Mediator, in that I rise again and go to the Father, and you shall see me no more about this Work of Satisfaction and Redemption.</p>
+            <p>For your better understanding of this Expression, <hi>I will give you the sure Mercies of David,</hi> take notice that there are <hi>two</hi> Davids <hi>spoken of in the Scripture.</hi>
+            </p>
+            <p n="1">1. David <hi>the Son of</hi> Jesse, <hi>King of Israel after</hi> Saul; and that <hi>Da<g ref="char:EOLhyphen"/>vid</hi> was an eminent Person.</p>
+            <p n="2">2. <hi>There is a Spiritual</hi> David, <hi>a Mystical</hi> David, the <hi>Messiah,</hi> the Lord Jesus: And when it is said, I will give you the sure Mercies of <hi>David,</hi> the meaning is, I will give you the sure Mercies of the <hi>Messiah,</hi> the Lord Jesus, the Spiritual <hi>David, the Root and the Off-spring of</hi> David. Rev. 22. 16. <hi>The Root of</hi> David <hi>as he was God, and
+<pb n="4" facs="tcp:205484:5"/> the Root of</hi> David <hi>as he was God-Man Mediator, and the Off-spring of</hi> David <hi>according to his Flesh and humane Nature.</hi> As it is said, 2 Tim. 2. 8. <hi>Remember that Jesus Christ of the Seed of</hi> David <hi>was raised from the Dead, according to my Gospel,</hi> that is, according to the Gospel which <hi>Paul</hi> preached. <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3. 5.</note>
+            </p>
+            <p>It is said after <hi>David</hi> the Son of <hi>Jesse</hi> was dead, <hi>Ezek.</hi> 37. 24, 25. saith the Lord, <hi>My Servant</hi> David <hi>shall be King over them, and my Servant</hi> David <hi>shall be their Prince for ever,</hi> that is, the Lord Jesus the mystical <hi>David.</hi>
+            </p>
+            <p n="3">3. The Apostle mentioneth another Place in the Old Testament, about the Resurrection of the Lord Jesus, <hi>Ver. 35. Wherefore he saith in another Psalm, Thou shalt not suffer thine Holy One to see Cor<g ref="char:EOLhyphen"/>ruption;</hi> that Place is in <hi>Psal.</hi> 16. 10. those Words are not meant of <hi>David</hi> the Son of <hi>Jesse, For after he had served his own Generation by the Will of God, he so fell on sleep, and was so laid to his Fathers that he saw Corruption;</hi> but the Lord Jesus, the mystical, the spi<g ref="char:EOLhyphen"/>ritual <hi>David,</hi> was the Holy One: that though he died to obtain eternal Redemption for his Church, <hi>yet he saw no Corruption, but was raised from the Dead the third Day. David</hi> the Son of <hi>Jesse</hi> had been long dead when the Apostle spake these words, and saw Corruption, and will not be raised until the last Day; but Christ the Holy One, he was raised presently, he was raised the third Day, and saw no Corruption.</p>
+            <p>This Point of the Resurrection of our Lord and Saviour Jesus Christ, it is <hi>a fundamental Article of the Christian Religion;</hi> you must firmly believe that Jesus Christ died for our Sins, and that he rose again: Ay, and not meerly rose again, but there is a spe<g ref="char:EOLhyphen"/>cialty in Christ's Resurrection: That is,</p>
+            <p n="1">1. That <hi>he rose again as the Head, Representative, and publick Per<g ref="char:EOLhyphen"/>son of his Church,</hi> of that elect and ransomed People: That as he died, and was delivered for our Offences, so he was raised again for our Justification, <hi>Rom. 4. ult.</hi> And so as Surety of the better Testament, he was raised, acquitted and discharged by the Fa<g ref="char:EOLhyphen"/>ther, <hi>Heb.</hi> 13. 20.</p>
+            <p n="2">2. That he rose again by the Power of his own Godhead too; <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t victor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t de se<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a.</note> as he said before his Death, Joh. 3. 19, 21. <hi>Destroy this Temple, and I will build it up in three Days; he spake of the Temple of his Body.</hi>
+            </p>
+            <p n="3">3. <hi>That he rose again in order to the glorifying of his humane Na<g ref="char:EOLhyphen"/>ture, to go into Heaven in his humane Nature, to be on the right Hand of God; Angels, and Principalities and Powers, being made subject unto him,</hi> 1 Pet. 3. <hi>last.</hi>
+            </p>
+            <p n="4">
+               <pb n="5" facs="tcp:205484:5"/> 4. <hi>That he rose again as the First-fruits and Pledg of the Elect, and ransomed Peoples Resurrection to Glory at the last Day.</hi> 1 Cor. 15. 20. <hi>But now is Christ risen from the Dead, and become the First-fruits of them that slept;</hi> he speaks of them there only that sleep in Jesus. And, <hi>ver. 23. But every Man in his own Order, Christ the First-fruits, and afterwards they that are Christ's at his coming.</hi>
+            </p>
+            <p n="5">5. That he rose again, not only to go into Heaven for the glo<g ref="char:EOLhyphen"/>rifying of his humane Nature, <hi>but to appear in the Presence of God,</hi>
+               <note place="margin">Rom. 8. 34. Heb. 10.</note> for the Elect and ransomed People, to appear in the Presence of God for them, and to make Intercession for them, until his Death and Bloodshedding be fully applied to them, to their eternal Hap<g ref="char:EOLhyphen"/>piness in Soul and Body.</p>
+            <p>Now that I am speaking of the Resurrection of our Lord and Saviour Jesus Christ, let me exhort you, as ever you would ap<g ref="char:EOLhyphen"/>prove your selves to be true Disciples of Christ, to <hi>remember to keep holy the Lord's Day, the first Day of the Week, the Gospel-Sabbath.</hi> The Sabbath is now changed, since the Resurrection of the Lord Jesus, from the seventh Day to the first Day of the Week: Upon that Day our Lord Jesus rose from the Dead, <hi>Mat.</hi> 28. 1, to the <hi>8th</hi> Verse. Upon that Day he appeared to his Disciples, and said, <hi>Peace be unto you,</hi> John 20. 19. And the next first Day of the Week after, (so after eight Days must be understood) <hi>ver.</hi> 26. he appear'd to them again, and said, <hi>Peace be unto you:</hi> And this was the Day when the Primitive Churches assembled together to break Bread, to partake of the Lord's Supper, and other Ordi<g ref="char:EOLhyphen"/>nances, <hi>Acts</hi> 20. 7. Upon the first Day they were to communi<g ref="char:EOLhyphen"/>cate to the Necessity of the Saints, 1 <hi>Cor.</hi> 16. 1, 2. And why? but because they kept that Day as the Gospel-Sabbath, and being near to the Lord, and warmed and quickned by his gracious Pre<g ref="char:EOLhyphen"/>sence in his Ordinances upon that Day, they would be more en<g ref="char:EOLhyphen"/>larged in Acts of Charity to the poor Members of Christ. And this is called <hi>the Lord's Day,</hi> Rev. 1. 10. Upon this first Day of the Week, the Lord Jesus rested from all his suffering Work for the Redemption of his Church: As it is written, <hi>Heb. 4. 10. He that is entred into his Rest, he also hath ceased from his own Work, as God did from his.</hi> This He, is Christ, who on the first Day of the Week rose again, and so rested and was refreshed; then all his Suffering-work was over, he dieth no more, Death hath no more dominion over him.</p>
+            <p>And as we keep the first Day of the Week in remembrance of our Saviour's Rest and Resurrection, so you should remember it
+<pb n="6" facs="tcp:205484:6"/> before it come, over Night, and when you awake in the Morn<g ref="char:EOLhyphen"/>ing, and at Times all the Day; and believing on his Name, tri<g ref="char:EOLhyphen"/>umph in him, saying in your Hearts, <hi>Who shall condemn? Christ hath died, yea, rather, is risen again, who also sitteth on the right Hand of God, where he ever liveth to make Intercession for us,</hi> Rom. 8. 38. <hi>He was dead, and is alive; and behold, he is alive for ever<g ref="char:EOLhyphen"/>more,</hi> Rev. 1. 18. And <hi>because he liveth, his People shall live al<g ref="char:EOLhyphen"/>so,</hi> John 14. 19. If the Lord put in by his Spirit to help us in such Meditations upon the Lord's Day, it will be as hidden Manna to our Souls. Likewise in your Prayers in Secret, and in your Fa<g ref="char:EOLhyphen"/>milies, make mention of this, that you are now commemorating the Resurrection of the Lord Jesus, and pray that you may tri<g ref="char:EOLhyphen"/>umph in him, and feel the Power of his Resurrection for Conso<g ref="char:EOLhyphen"/>lation and quickening you to holiness and newness of Life. 'Tis a great Oversight and Defect in those that minister in the As<g ref="char:EOLhyphen"/>semblies of the Saints, if they do not make mention in their Pray<g ref="char:EOLhyphen"/>ers upon the Lord's Day, of the Ground and Reason of their com<g ref="char:EOLhyphen"/>ing together upon that Day, the Thanksgiving Day for our Re<g ref="char:EOLhyphen"/>demption, and the Resurrection of our Lord Jesus; praying fer<g ref="char:EOLhyphen"/>vently that the Lord Jesus by his Spirit would be in the midst of them, and say, <hi>Peace be unto you:</hi> Praying that God would enlarge and raise their Hearts to look to him by Faith, as ri<g ref="char:EOLhyphen"/>sen again and ascended, and sat down at the right Hand of the Majesty in the Heavens, and praying that we may earnest<g ref="char:EOLhyphen"/>ly desire to depart, to be with him where he is, to behold his Glory.</p>
+            <p>The Apostle having said, that <hi>the holy One,</hi> spoken of <hi>Psal. 16. 10. did not see Corruption,</hi> comes to shew in the Text, that those Words are not meant of <hi>David</hi> the Son of <hi>Jesse,</hi> but of the Lord Jesus. Indeed, <hi>David</hi> the Son of <hi>Jesse</hi> was an eminent Person, a <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 23. 1.</note> gracious Man, the sweet Psalmist of <hi>Israel;</hi> but he was but a meer Man. Christ is God as well as Man, God by Nature, God from E<g ref="char:EOLhyphen"/>verlasting, who in the Fulness of Time took humane Nature into personal Union with his Godhead, that individual humane Nature which he took of the Blessed Virgin; he from that Time to all Eternity, is the Word made Flesh, God manifest in the Flesh. <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. 14. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im. 3. 16.</note> What was <hi>David</hi> the Son of <hi>Jesse</hi> in comparison of him? What are all the Angels of Heaven in comparison of him?</p>
+            <p>
+               <hi>David</hi> the Son of <hi>Jesse,</hi> was in some few things a Type of Christ; <hi>David</hi> overcame <hi>Goliah</hi> * the Champion of the <hi>Philistines:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 17. 23, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 50, 51. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2. 14. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 16. 23.</note> Christ overcame the Champion and Prince of the Devils. <hi>David</hi>
+               <pb n="7" facs="tcp:205484:6"/> when <hi>Saul</hi> was troubled with an evil <hi>Spirit,</hi> with the sound of his Musick, drove away his Sadness, and he was refreshed and well: So when a poor Sinner is in Anguish of Spirit, full of Horror, and ready to sink in Despair for his Sins, Christ with the joyful sound of his Redemption and Grace, can refresh and give Peace and rest to the troubled Conscience, <hi>Mat.</hi> 11. 28.</p>
+            <p>
+               <hi>David</hi> was exalted from a low Estate to Kingly Power: Our Lord and Saviour Jesus Christ, though as to his Godhead he was not capable of any Exaltation, being God over all, <hi>blessed for ever<g ref="char:EOLhyphen"/>more,</hi> Rom. 9. 5. yet as God-Man, is highly exalted from the low estate of his Abasement as Man, in his Birth, Life, Death and Burial, to be raised again, and exalted above Principalities and Powers, Might and Dominion, and every Name that is named, both in this World, and that which is to come. It is said also, <note n="*" place="margin">1 Sam. 18. 16</note>
+               <hi>All</hi> Israel <hi>and</hi> Judah <hi>loved</hi> David: So all the <hi>Israel</hi> of God love the Lord Jesus for ever, both as he is God, and as he is God-Man, Me<g ref="char:EOLhyphen"/>diator. But though in such things <hi>David</hi> may be counted a Type of Christ, and Christ as to his humane Nature was of the Seed of <hi>David,</hi> yet what was <hi>David</hi> in comparison of Christ our <hi>Immanuel,</hi> God manifest in our Nature? Yea, this <hi>David</hi> the Son of <hi>Jesse,</hi> though he was a gracious Man, and an eminent Man in his Time, yet he had many Spots upon him, ay and foul Spots, many Sins and Failings, and some very great Sins, such as one would have thought a Saint could never have been guilty of, as Adultery with <hi>Bathsheba,</hi> and the Murder of <hi>Ʋriah</hi> her Husband: But he was a great Penitent, he wrote several Penitential <hi>Psalms;</hi> the <hi>51st Psalm</hi> was one of them, there you may see the Spirit and Grace of the Man, <hi>how he mourned for Original and Actual Sin; how he prayed for Pardon of Sin; how he prayed for Power against Sin</hi> for the time to come; <hi>how he prayed that God would restore to him the Joy of his Salvation,</hi> the Sense, and Comfort, and Assurance of his Love, which he had lost by his sad Falls into such gross Sins. And you may see after that, what a deep Sense he had of his Sins when his Son <hi>Absalom</hi> rebell'd against him, and <hi>David</hi> in that Danger fled from him. It is said, 1 <hi>Sam. 15. 13. And</hi> David <hi>went up by the Ascent of Mount</hi> Olivet, <hi>and wept as he went up; and had his Head covered, and went barefoot.</hi> What was the Rea<g ref="char:EOLhyphen"/>son of this? <hi>David</hi> had been a Man of War from his Youth; and do Men of War that have any Courage, use to shew such Pusilanimity, and weakness of Mind, as to cover their Faces and weep, and go barefoot in time of Danger? No; but he was sen<g ref="char:EOLhyphen"/>sible
+<pb n="8" facs="tcp:205484:7"/> of his Sins, and how God had threatned, by the Prophet <hi>Nathan,</hi> to raise up Evil against him out of his own House; and <note place="margin">2 Sam. 12. 11.</note> so mourning for his Sins, he behaved himself not as a Prince and a Man of War, but went on like a Penitent weeping, and with his Face covered and barefoot.</p>
+            <p>This <hi>David,</hi> though he had many sinful Failings, yet he was beloved of God, and was one that was eminent for Holiness and Usefulness in his Time. It is said of <hi>David,</hi> when God threatned to take away the Kingdom of <hi>Israel</hi> from <hi>Saul,</hi> that he had sought him a Man after his own Heart <note n="*" place="margin">1 Sam. 13. 11. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sam. 15. 28.</note>, and that he had rent the Kingdom from him, and given it to a Neighbour of his more righteous than <hi>Saul.</hi> And it is said, <hi>Acts</hi> 13. 22. that the Lord raised up <hi>David</hi> to be their King; to whom also he gave testimony, and said, <hi>I have found</hi> David <hi>the Son of</hi> Jesse, <hi>a Man after mine own Heart, which shall fulfil all my Will.</hi> Some have thought <hi>David</hi> was called <hi>a Man after God's own Heart,</hi> because he was so much in admiring and praising God, as you may see in the Book of <hi>Psalms.</hi> And indeed it's a blessed thing to be car<g ref="char:EOLhyphen"/>ried out in much admiring and praising God, because of his glo<g ref="char:EOLhyphen"/>rious Being and Perfections, because of the Purity and Holiness of his Laws and Precepts, because of the Works of Creation, be<g ref="char:EOLhyphen"/>cause of his Works of Preservation of his Church, as Sheep in the midst of Wolves, and because of his pardoning, saving and sanctifying of his People, through the <hi>Messias</hi> the Lord Jesus: Which as you may see <hi>David</hi> had much in his Eye in several <hi>Psalms</hi> which he penn'd. But when <hi>David</hi> is called <hi>a Man after God's own Heart,</hi> you must not take it as if he were absolutely perfect; for as I hinted before, he had many sinful Failings, and he was sensible of them, as you may see in many Places.</p>
+            <p>But, 1. He was a Man after God's own Heart in comparison of <hi>Saul.</hi>
+            </p>
+            <p n="2">2. He was a Man after God's own Heart, as a King, in the Go<g ref="char:EOLhyphen"/>vernment <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal. 19. 12. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 38. 34. &amp; 40. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. &amp; 51. 1, 2, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 4, 5, 6. &amp; 130. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 4. &amp; 143. 2.</note> of the People of <hi>Israel. Psal.</hi> 78. 72. it is said there, <hi>He fed them according to the Integrity of his Heart; and guided them by the skilfulness of his Hands:</hi> Thus he was a Man after God's own Heart, to do his Will in a comfortable measure.</p>
+            <p n="3">3. He was a Man after God's own Heart, as to his own Spiri<g ref="char:EOLhyphen"/>tual Estate; he was no Hypocrite, he was sincere, upright; he walked with God in a good degree, in a comfortable measure, a<g ref="char:EOLhyphen"/>bove most Saints of that Age.</p>
+            <pb n="9" facs="tcp:205484:7"/>
+            <p>And here in this Text you have this <hi>Encomium,</hi> this high Cha<g ref="char:EOLhyphen"/>racter and Praise of <hi>David,</hi> That <hi>he served his own Generation by the Will of God.</hi>
+            </p>
+            <p>In the Text you have two things.</p>
+            <list>
+               <item>1. Here is a Commendation of <hi>David.</hi>
+               </item>
+               <item>2. Here is a Diminution, or lessening of him.</item>
+            </list>
+            <p n="1">1. Here is a Commendation of him, a high praising of him, in those words, <hi>That</hi> David <hi>served his own Generation by the Will of God.</hi>
+            </p>
+            <p n="2">2. Here is a Diminution of him, a lessening of him, in those words, That <hi>he saw Corruption;</hi> not only died and was buried, but his Body saw Corruption, it putrified and turned to Dust, his Reins consumed in the Grave.</p>
+            <p>And he mentions this, to shew that the Lord Jesus, the mystical <hi>David,</hi> was above <hi>David</hi> the Son of <hi>Jesse;</hi> not only as he was God, but in respect of his Body of Flesh which he took upon him; for though he died for our Sins, and was buried, yet his holy Bo<g ref="char:EOLhyphen"/>dy never corrupted, it was not possible that Holy One should see Corruption: And so it follows in the next Verse to the Text, <hi>He whom God raised again, saw no Corruption;</hi> the Lord Jesus was presently, the third Day, raised again, and his holy Body never corrupted.</p>
+            <p>For <hi>David</hi> after <hi>he had served his own Generation,</hi> that is, the Age and Time wherein he lived, <hi>by the Will of God,</hi> that is, by <hi>doing the Will of God in a good degree, in a comfortable measure, in that Age and Time, he fell on sleep, was laid to his Fathers, and saw Corruption.</hi> For understanding of that Phrase, [<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>by the Will of God]</hi> take notice that by <hi>the Will of God is sometimes meant his Decree, his Purpose, his Eternal Counsel,</hi> what shall be in Time. <hi>Ephes.</hi> 1. 11. it is said there, God <hi>worketh all things according to the Counsel of his own Will;</hi> all things come to pass in Time accord<g ref="char:EOLhyphen"/>ing as God's Counsel and Will determined before, even from E<g ref="char:EOLhyphen"/>ternity to be done; by which effecting of the Will and Counsel of God, he hath his Glory one way or other. <hi>But by the Will of God, is often in the Scripture meant his commanding Will, what he commands us to do, and what he approves and accepts being done;</hi> and so you must understand this Place, that <hi>David</hi> served his own Generation, by doing what God commandeth and approveth;
+<pb n="10" facs="tcp:205484:8"/> what was pleasing and acceptable to him, this he did in a com<g ref="char:EOLhyphen"/>fortable measure.</p>
+            <p>There are three Obervations from these words.</p>
+            <p n="1">1. <hi>Observation.</hi> That <hi>this is a blessed Thing, a great Commendation to any Person, that he serveth his own Generation according to the Will of God; that he doth the Work and Duty that God commands and re<g ref="char:EOLhyphen"/>quires, in his Place and Station, in the Generation, Age and Time he lives in, in some comfortable measure.</hi>
+            </p>
+            <p n="2">2. <hi>Observation</hi> is, <hi>That if Persons be Righteous before God, in that Generation wherein they live, and do the Will of God, so as to be owned and accepted of him, yet they must expect to die; they must fall on sleep, and be laid to their Fathers.</hi>
+            </p>
+            <p n="3">3. <hi>Observation.</hi> That <hi>when the Saints die, they see Corruption; though their Souls go to God in Glory, are taken to the beatifical Vision of God in Heaven, yet their Bodies corrupt in the Grave, as well as the Bodies of other Men.</hi> So it was with the Body of <hi>David,</hi> and so it is with the Bodies of other Saints.</p>
+            <p>To begin with the first Doctrine.</p>
+            <p>
+               <hi>That this is a blessed Thing, a great Commendation to any Person, that he serveth his own Generation according to the Will of God; that he doth the Work and Duty that God commandeth and requireth, in his Place and Station, in the Generation, Age and Time he lives in, in some comfortable measure.</hi> Thus <hi>David</hi> was enabled to do by the Grace of God; he did the Will of God in his Day, he lifted up the Name of God, he glorified God in the Age and Time where<g ref="char:EOLhyphen"/>in he lived.</p>
+            <p>You must not understand this Expression concerning <hi>David,</hi> nor any Expression that <hi>David</hi> used concerning himself in the Book of <hi>Psalms,</hi> as if <hi>David</hi> * was absolutely perfect, and without Sin when he was here upon Earth. Indeed the Saints in Hea<g ref="char:EOLhyphen"/>ven <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov. 20. 9. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 7. 20. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. 8. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3. 2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3. 12. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 17.</note> they are free from all Remainders of Sin, they do the Will of God perfectly; but here we have many sinful Failings. I know it is the way of some to speak loftily, and as if they were per<g ref="char:EOLhyphen"/>fect; but they do not consider the infinite Purity of the Majesty of God, the Spirituality of the Law, its vast Extent to all our Thoughts, Words and Actions. And though I would not be cu<g ref="char:EOLhyphen"/>rious in prying into others, yet I cannot but take notice in some that speak high things of their Attainments, that they discover
+<pb n="11" facs="tcp:205484:8"/> much Pride, and sometimes are more bent after Riches, and Ho<g ref="char:EOLhyphen"/>nour, and Pleasure, than other Professors.</p>
+            <p>O let us repent every Day, pray for pardon of Sin every Day, look to that Advocate with the Father, Jesus Christ the Righteous, every Day. There is a Work of Inherent Grace and Holiness be<g ref="char:EOLhyphen"/>gun in every true Believer, and they are called <hi>Holy and Righteous</hi> in the Scripture, in respect of their inward Man their better Part, and in comparison of others that have not the Truth of Grace in them; and they do Righteousness, and practise Holiness in their Lives and Conversations; but still they are Sinners all their Days, and account themselves so, loath and abhor themselves, and desire to be found in the Righteousness of Christ alone for their Justification, who alone is the End of the Law for Righteousness to his People: It is his perfect Righteousness as our Mediator and Surety, which is imputed to us for the Justification of Life.</p>
+            <p>This <hi>David,</hi> 2 Sam. 23. 4, 5. speaks of a glorious Person, a glo<g ref="char:EOLhyphen"/>rious King, a Ruler, that should be <hi>as the Light of the Morning, when the Sun riseth, a Morning without Clouds; as the tender Grass spring<g ref="char:EOLhyphen"/>ing out of the Earth by clear shining after Rain:</hi> which you may un<g ref="char:EOLhyphen"/>derstand as a Prophecy and Promise of the <hi>Messias,</hi> the Lord Je<g ref="char:EOLhyphen"/>sus, that was to come of <hi>David</hi> after the Flesh; <hi>he was the Sun of Righteousness, he was the Morning without Clouds.</hi> And saith <hi>David, Although my House be not so with God,</hi> neither I nor my House hath been as the Light of the Morning when the Sun riseth, as a Morn<g ref="char:EOLhyphen"/>ing without Clouds; I, and my House and Family, have had ma<g ref="char:EOLhyphen"/>ny thick Clouds of Sin upon us; yet I look by Faith to the <hi>Messias</hi> the Lord Jesus, he is all my Salvation and all my Desire: though I and my Family be brought low by Affliction for our Sins, yet I look to be pardoned, blessed and accepted in him.</p>
+            <p>So that all that is intended in this Commendation of <hi>David</hi> in the Text, (that we may not think of <hi>David,</hi> or any other Saint, above what is meet) is this, that in a comfortable measure, and above most Saints in his Time, and in an eminent manner, and so as to be owned and accepted in a Covenant of pardoning Mercy through Christ, he served his own Generation by doing the Will of God; and truly this was a great matter.</p>
+            <p>Now to open this Point plainly and practically to you, I would speak a little to these three Questions.</p>
+            <pb n="12" facs="tcp:205484:9"/>
+            <p>Quest. 1. <hi>When may a Magistrate be said to serve his Generation, by doing the Will of God?</hi>
+            </p>
+            <p>Quest. 2. <hi>When may a Minister be said to serve his Generation, by doing the Will of God?</hi>
+            </p>
+            <p>Quest. 3. <hi>When may a private Christian be said to serve his Gene<g ref="char:EOLhyphen"/>ration, by doing the Will of God?</hi>
+            </p>
+            <p>Quest. 1. <hi>When may a Magistrate be said to serve his Generation, by doing the Will of God? David</hi> he was a Magistrate, he was a King, he was a Ruler: When may a Magistrate, one in Autho<g ref="char:EOLhyphen"/>rity, Supream as <hi>David</hi> was, or Subordinate as inferiour Magi<g ref="char:EOLhyphen"/>strates, be said to serve their Generation by doing the Will of God?</p>
+            <p>
+               <hi>Answer.</hi> You must take notice, that all Magistrates are in some Sense useful to the People, even Heathen Magistrates, to keep up some Order, Justice and Peace amongst their Subjects. Magi<g ref="char:EOLhyphen"/>stracy is an Ordinance of God, and is for the good of humane Society; there is no Government so bad as to have no Govern<g ref="char:EOLhyphen"/>ment at all: Where there is no Magistracy, there will soon be Con<g ref="char:EOLhyphen"/>fusion and every evil Work.</p>
+            <p>Yea, take notice that such Princes as <hi>Nebuchadnezzar,</hi> are cal<g ref="char:EOLhyphen"/>led <hi>God's Servants,</hi> when they executed God's Judgments upon the Jews for their Idolatry, and other Wickedness; they served his All-governing and unsearchable Providence, when they in<g ref="char:EOLhyphen"/>tended only their own Pride, Revenge and Covetousness. That wicked Heathen is * three times called † <hi>God's Servant,</hi> as an In<g ref="char:EOLhyphen"/>strument <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10. 5, 6, 7. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 25. 9. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 27. 6. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 43. 10.</note> of God's Vengeance upon that People for their Sins.</p>
+            <p>But <hi>David</hi> in the Text was God's Servant in another manner, in doing the Will of God in his Generation; he knew the Will of God, and delighted to do the Will of God: He was a Ser<g ref="char:EOLhyphen"/>vant of God in a special and gracious way; he was one that walked with God as a private Person; he was a Man much in Prayer to God, much in praising of God, much in heavenly Me<g ref="char:EOLhyphen"/>ditation; his Eyes prevented the Night-watches, that he might meditate in God's Word.</p>
+            <p>But when may a Magistrate be said to serve his Generation, by doing the Will of God?</p>
+            <p>Answ. 1. <hi>The more a Magistrate is an Example of Holiness and Purity of Life, that as he is eminent in Place, so he is eminent in Ho<g ref="char:EOLhyphen"/>liness of Life; the more he serveth his Generation, by doing the Will
+<pb n="13" facs="tcp:205484:9"/> of God in his Place and Station.</hi> If a Magistrate be a Swearer, a Drunkard, and the like, the more he corrupts the People; they are apt to follow the Examples of great Ones. If Magistrates were more strict in their Lives, there would not be such debauchery and profaneness amongst the People.</p>
+            <p n="2">2. <hi>The more a Magistrate takes care to restrain Sin, and to propa<g ref="char:EOLhyphen"/>gate Religion, the true Knowledg, and the true Worship of God; the more he serveth his Generation by doing the Will of God. David</hi> in the Text, though he did not build the Temple, yet he made great Preparations for it. Jehoshaphat <hi>sent to his Princes to teach in the Cities of</hi> Judah; <hi>and with them he sent Levites, and they taught in</hi> Judah, <hi>and had the Book of the Law of the Lord with them, and</hi>
+               <note place="margin">2 Chron. 17. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 6, 7, 8, 9.</note>
+               <hi>went about throughout all the Cities of</hi> Judah, <hi>and taught the People. Josiah</hi> and <hi>Hezekiah</hi> did reform things what they could, they were carried out to propagate Religion: So are all Magistrates to do in God's Way, so far as their Power reaches; they are to en<g ref="char:EOLhyphen"/>courage the preaching of the Word, they are to protect and che<g ref="char:EOLhyphen"/>rish the Faithful.</p>
+            <p n="3">3. <hi>The more careful a Magistrate is, that those that are about him be Religious, such as fear God, the more he serveth his Generation in doing the Will of God as a Magistrate:</hi> And this was <hi>David</hi>'s Pur<g ref="char:EOLhyphen"/>pose and Way, when he came to be a Publick Magistrate; <hi>Psal.</hi> 101. 2, 3, 4, 5, 6, 7 verses, saith he, <hi>I will walk within mine House with a perfect Heart.</hi> Ver. 4. <hi>A froward Heart shall depart from me; I will not know a wicked Person.</hi> Ver. 6. <hi>My Eyes shall be upon the Faithful of the Land, that they may dwell with me: he that walketh in a perfect Way, he shall serve me. He that worketh Deceit, shall not dwell within my House: he that telleth Lies, shall not tarry in my sight.</hi>
+            </p>
+            <p>Many other Qualifications I might mention, (and instance too in <hi>David)</hi> as how tender he was of the Lives of his People: and when some brake through with the Danger of their Lives, to get him of the Water of the Well of <hi>Bethlehem;</hi> when he consi<g ref="char:EOLhyphen"/>dered how they had ventured their Lives to get it, he would not drink of it, but poured it out before the Lord, and said, <hi>My God forbid it, that I should do this thing; shall I drink the Blood of those</hi>
+               <note place="margin">1 Chron. 11. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18, 19.</note>
+               <hi>Men that have put their Lives in jeopardy?</hi> so tender was he of the Lives of the People. And <hi>David</hi> when he made that Speech up<g ref="char:EOLhyphen"/>on a solemn Occasion, 1 <hi>Chron. 28. 2. Then</hi> David <hi>stood up upon his Feet, and said, Hear me, my Brethren, and my People.</hi> So you see
+<pb n="14" facs="tcp:205484:10"/> how humble he was in his Government. But I shall omit many things that might be mentioned upon this Head.</p>
+            <p>Quest. 2. <hi>When may a Minister be said to serve his Generation, by doing the Will of God?</hi> Here take notice that we must cry out with the Apostle, <hi>Who is sufficient for these things?</hi> But God is pleased <note place="margin">2 Cor. 2. 16.</note> to imploy mean Instruments, and bless the poor and mean Endea<g ref="char:EOLhyphen"/>vours of his Servants when he pleaseth. We have this Treasure of the Light of the Knowledg of the Gospel in earthen Vessels, that the Excellency of the Power may be of God, and not of us; that whatsoever Good is done by any Minister, the Power, and Vertue, and Glory, is to be ascribed to God, and not to the Mi<g ref="char:EOLhyphen"/>nister: It pleaseth God, by such mean and contemptible Means, (as when our Saviour made use of Clay and Spittle to open the Eyes of the Blind) to do good to Souls.</p>
+            <p>Grace and Experience of the Things of God in a Man's own Soul, goes a great way in a Minister, though natural Parts, and humane Learning are much to be desired, and to be consecrated to the Lord.</p>
+            <p>God may make use of a Minister's Parts, that is not gracious himself; but God ordinarily makes use of such Ministers as preach from the Heart, as well as from the Head; experimentally, as well as from literal and notional Knowledg.</p>
+            <p>This Servant of Christ, who is taken from us, whose Life was much desired, and whose Death is to be much lamented, was a Person not only of great Grace and Experience in Religion, but of great Learning, endowed with great Abilities for that sacred Office.</p>
+            <p>Now in answer to that Question, <hi>When may a Minister, a Bishop, an Elder, be said to serve his Generation, by doing the Will of God in his Office, and Place, and Station?</hi>
+            </p>
+            <p n="1">1. <hi>The more sound a Minister is in the Doctrine of Religion, the more he holds fast the Form of sound Words, the more he endeavours that the Truth of God may stand in his Day against Heresies, against false Teachers, against all erronious Doctrine, especially in the main and fundamental Points, the more he serveth his Generation, by doing the Will of God in his Place and Station.</hi> Ministers are set for the De<g ref="char:EOLhyphen"/>fence of the Gospel, and are to contend earnestly for the Faith once delivered to the Saints. And this holy Man was an Ortho<g ref="char:EOLhyphen"/>dox Divine; he was a good Minister * of Jesus Christ, <hi>one that</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 4. 6.</note>
+               <pb n="15" facs="tcp:205484:10"/>
+               <hi>was nourished up in the Words of Faith, and of good Doctrine where<g ref="char:EOLhyphen"/>unto he had attained; he was firm to the Scripture, and old Protestant Doctrine of Justification,</hi> by the Righteousness of Christ, imputed and reckoned to his People, and received by Faith; he was very clear in the Doctrine of <hi>the free, special, effectual and distinguishing Grace of God,</hi> against the Arminian Way; and bewailed that so many did turn aside to those Notions that lean to the Popish Do<g ref="char:EOLhyphen"/>ctrine about Justification, and that lean to Arminianism. I have heard him lament this.</p>
+            <p n="2">2. <hi>The more a Minister is laborious and painful in his Labours in the Gospel, to make full proof of his Ministry, humbly waiting upon the Lord, to see what use the Lord will please to make of his Ministry for the Con<g ref="char:EOLhyphen"/>version of Souls, and for helping their Knowledg, their Faith, their Ho<g ref="char:EOLhyphen"/>liness and Consolation in Christ, who have believed through Grace, the more a Minister doth serve his Generation, by doing the Will of God in his Place and Office.</hi> The Ministry is a Work, a great and hard Work, they must labour hard in the Vineyard of the Lord, they must be instant in Season, and out of Season. Let not Ministers fear the shortning of their Lives by much labour in the Gospel; it is a help to a Minister's Health, and a means to keep them near to the Lord, and in most sweet Communion with him Night and Day. Indeed, when Age comes, our Strength faileth, our na<g ref="char:EOLhyphen"/>tural Vigour and Spirits abate, and they cannot study and labour as they have done; but those that are young and strong, let them abound in the Work of the Lord. And truly so did this Man of God of whom I am speaking, he laboured much in the Gospel in his younger Years, and as much as could be expected in his Age.</p>
+            <p n="3">3. <hi>The more a Minister is exemplary in his Conversation, the more bolily,</hi>
+               <note n="*" place="margin">1 Thess. 2. 10. 1 Tim. 3. 2, 3, 4, 5. Titus 1. 7, 8.</note>
+               <hi>justly, and umblameably he behaveth himself amongst the People that he hath the Charge of, the more he serveth his Generation, by doing the Will of God in his Place and Station.</hi> Ministers should preach by their Lives, as well as by their Doctrine: If a Mini<g ref="char:EOLhyphen"/>ster be covetous, greedy of filthy Lucre, be for getting a great Estate, he hinders the Gospel of Christ. If a Minister leave a great Estate, except it came by Parents, Marriage, or Friends, 'tis an ill sign, and no honour to him. If a Minister, who should be an Example of Humility and Mortification, be for gay Clothing, and setting out of Hair, according to Art and Man's Device in this proud and fantastical Age, what a shame it is, and how he
+<pb n="16" facs="tcp:205484:11"/> makes himself contemptible before the People that are grave and serious, and sets an evil Example to young, vain, and light Per<g ref="char:EOLhyphen"/>sons. But this Man of God used none of these things. I have heard him say, that all the Estate he had, was but about what he had from his Relations; and as to his Habit, it was always so grave, decent, and humble, that he was an Example to others to fol<g ref="char:EOLhyphen"/>low. If Ministers be not in some measure <note n="†" place="margin">1 Tim. 4. 12. 1 Pet. 5. 3.</note> an Example in Word, in Conversation, in Charity, in Faith, in Purity, they strengthen the Hands of evil Doers, and may soon do more hurt by their Lives, than ever they will do good by their Doctrine.</p>
+            <p>I might mention many other things, how a faithful Minister may be said to serve his Generation, by doing the Will of God in his Place and Station, which Men may take notice of; but I shall wave them, and only hint at one thing that Ministers must pra<g ref="char:EOLhyphen"/>ctise in secret, and that is, in praying more, not only in Publick, and in their Families, but in Secret, between God and their own Souls, for the People they have the Charge of, bearing them upon their Hearts before the Lord continually.</p>
+            <p>Ministers, those that give themselves to labour in the Word and Doctrine, should give themselves to secret Prayer for themselves and for the People.</p>
+            <p n="1">1. <hi>For themselves;</hi> that God would pardon their manifold Sins and Failings; as in other things, so in their ministring in the holy Things. What gracious Minister is there, that is not sensi<g ref="char:EOLhyphen"/>ble how much he comes short of his Duty in the Ministry? Who is so humble in his Ministry as he should be? Who is so sincere in having a single Eye to the Glory of God, and the Good of Souls, as he should be? Who is there that goes forth in the Strength of Christ, depending upon help from him in all his Studies and La<g ref="char:EOLhyphen"/>bours, as he should do? Who is there that is so faithful in reproving, exhorting, and warning (in private especially) as he should be? Who is so lively and spiritual in this Ministration as he should be?</p>
+            <p>Ministers had need be much in Prayer, that God would pardon them in Christ, and not enter into Judgment with them, as upon other Accounts, so for their short coming in their Duty as Mini<g ref="char:EOLhyphen"/>sters of the Word. And they have need continually to pray, that God would still assist them whilst he pleaseth to make use of them, that he would help them continually in their Ministration. Mini<g ref="char:EOLhyphen"/>sters had need to be much in Prayer, that God would enable them to bear their Trials and Troubles, that they are exposed
+<pb n="17" facs="tcp:205484:11"/> unto by their Place and Station, and that they may finish their Course with joy.</p>
+            <p n="2">2. <hi>For the People:</hi> That God would pardon and reform what is amiss in them; that God would keep off grievous Persecutors that <note place="margin">Acts 20. 29<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> will not spare the Flock; that there may not arise out of them<g ref="char:EOLhyphen"/>selves Men speaking perverse things to draw away Disciples after them, that there may not break forth any scandalous Sins amongst them; that though there will be in this imperfect State ordinary Failings and Infirmities, that God would graciously keep them, that there may not be a Fornicator, a Murderer, a Thief, a Drun<g ref="char:EOLhyphen"/>kard, or such-like amongst them, and pray that there may not be an evil Spirit of Division amongst them, but that <hi>they keep the Ʋnity of the Spirit in the Bond of Peace.</hi>
+            </p>
+            <p>A gracious Minister is (though he be young) to expect that he may not continue with the Congregation, by reason of Death, especially Ministers that are old, and so should be continually praying in secret, that the Lord would, from time to time, pro<g ref="char:EOLhyphen"/>vide for the Congregation, and give them Pastors after his own Heart. Ministers are not only to care for Congregations for their own Time, whilst they live, but lay up many Prayers with the Lord for them, that he would continue their Church-Estate; and though he dies, that God would graciously be with them, and conduct them to their Place, to their Eternal Rest.</p>
+            <p>Quest. 3. <hi>When may a private Christian be said to serve his Genera<g ref="char:EOLhyphen"/>tion, by doing the Will of God?</hi>
+            </p>
+            <p>In answer to this Question, take notice, That it is not only Ma<g ref="char:EOLhyphen"/>gistrates and Ministers that are to serve their Generations, by do<g ref="char:EOLhyphen"/>ing the Will of God, but 'tis the Duty of private Christians, 'tis the Duty of every one in their Place and Station: Every Christian that lives any time in the World, is to act a Part upon the Stage of this World, for the glorifying God in their Day, according to their Capacity, according to their Place and Station. The Apo<g ref="char:EOLhyphen"/>stle, <hi>Titus</hi> 2. 9, 10. would have <hi>Servants to be obedient unto their own Masters, and to please them well in all things, not answering again: Not purloining, but shewing all good Fidelity, that they may adorn the Doctrine of God our Saviour in all things.</hi> Servants that are Profes<g ref="char:EOLhyphen"/>sors of the Gospel, are to stand upon the Honour and Reputation of the Religion which they profess; that they may glorify God in their Place and Station, that others may see that Religion makes
+<pb n="18" facs="tcp:205484:12"/> good Masters, good Servants, good Husbands, good Wives; this adorneth Religion, this adorns the Doctrine of God our Savi<g ref="char:EOLhyphen"/>our.</p>
+            <p>Here many things might be mentioned, but take a few Parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p n="1">1. <hi>The more free Christians are to employ their Estates for pious and charitable Ʋses, to honour * God with their Substance, to do good and</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov. 2. 9. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 11. 1, 2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 6. 17, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 13. 6.</note>
+               <hi>communicate, to lend and give, the more they serve their Generation by doing the Will of God.</hi> When Christians are clung, and hard, and selfish, are not open-hearted and open-handed to their Ability, and as the Matter doth require, they do not honour God in their Generation. Yea, those that have but small and ordinary Estates, should be the more sparing in their Furniture for their Houses, in their Apparel, in their House-keeping, that they may have some<g ref="char:EOLhyphen"/>thing to give to pious and charitable Uses. You that have Estates, you should not live high, there are so many Duties that God re<g ref="char:EOLhyphen"/>quires of you to lay out of your Estates for his Glory, and the good of others where you live.</p>
+            <p n="2">2. <hi>The more Christians are careful in bringing † up their Children in</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od. 13. 14. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 6. 6, 7. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es. 6. 4.</note>
+               <hi>the Nurture and Admonition of the Lord, in catechising their Children and Servants, in taking care that they keep the Lord's Day; the more careful they are to speak of the Things of God in their Family, yea, and to be heavenly in discourse among their Neighbours, putting in something of Heaven into all their Converse, the more they serve their Generation according to the Will of God.</hi>
+            </p>
+            <p n="3">3. <hi>The more Christians keep from the Errors and Sins of the Times, and mourn for them, the more they serve their Generation according to the Will of God. Gen</hi> 7. 1. God saith of <hi>Noah, Thee have I seen Righteous before me in this Generation.</hi> That was a crooked and per<g ref="char:EOLhyphen"/>verse Generation in which <hi>Noah</hi> lived; but he was holy and strict in some measure, though no Saints are absolutely perfect, and the Lord owned him, took gracious notice of him. To be humble in a proud Age, to be strict and holy in a loose licentious Age, this is a great Commendation; and to sigh and cry for the Abominations of the Times and places where you live, <hi>Ezek.</hi> 9. 4. God sometimes sets a Mark on such for outward preservation, when he brings Judg<g ref="char:EOLhyphen"/>ments upon others; however he sets a Mark of Approbation upon them, that whatsoever outward Calamities come, their Souls shall be fafe, it shall go well with them for ever.</p>
+            <p n="4">
+               <pb n="19" facs="tcp:205484:12"/> 4. <hi>The more willing Christians are to bear the Cross, to suffer accord<g ref="char:EOLhyphen"/>ing to the Will of God, to suffer as his Witnesses in the Age and Time they live in, the more they serve their Generation according to the Will of God.</hi> Some they think they are willing to active Obedience; but when Professors are called to passive Obedience in a high de<g ref="char:EOLhyphen"/>gree, then they are tried indeed. When we are called to this, to Suffer, to Imprisonment, loss of Estate, and to lay down our Lives for the Testimony of Jesus, this comes very near us. Many in their Generations have been called to this, and they <note n="*" place="margin">Rev. 12. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> overcame by the Blood of the Lamb, by Grace and Strength from Christ, the Lord, the Lamb, who shed his precious Blood for us: there is a Spirit of Martyrdom, the Spirit of God and of Glory resting upon us in a high and glorious manner; to <hi>strengthen us with all</hi>
+               <note place="margin">1 Pet. 4. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 13, 14. Col. 1. 11. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Might according to God's glorious Power, unto all patience and long-suffering with joyfulness,</hi> which is given out in that Hour and Time which we can give little account of before-hand. It is not by our own Strength that any of us are able to suffer for the Truth in a right manner for right Ends, aiming singly at the Glory of God, the Honour of his Truth and Ways; but his Grace is sufficient for us, to make us out of weakness to become strong: therefore be humble, be sensible of your own Weakness, and pray that you may be strong in the Lord, and in the Power of his Might. Re<g ref="char:EOLhyphen"/>member <hi>Peter</hi>'s Self-confidence what it came to, and how he denied <note place="margin">Mat. 26. 33<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 35. <hi>compa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with ver. 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the end.</hi>
+               </note> Christ; he might write, by sad Experience, 1 <hi>Pet.</hi> 1. 5. that <hi>we are kept by the Power of God,</hi> and not by our own Power and Strength; he fell fouly and shamefully in a Time of Danger, but Christ raised him up from his Fall; he was kept that his Faith failed not in the Habit and Principle, tho it failed in the Act and Exercise for a Sea<g ref="char:EOLhyphen"/>son, and the Lord strengthened him afterwards, that he was fill'd with the Holy Ghost, and with Boldness.</p>
+            <p>Many things might be added upon this Head; but let me make some use of this Point.</p>
+            <p>
+               <hi>Ʋse</hi> 1. By what we have heard, we may all of us <hi>see cause to be greatly humbled before the Lord; that we have hitherto served our Gene<g ref="char:EOLhyphen"/>rations no more according to the Will of God;</hi> that we have signified so little in our Places and Stations to glorify God in our Day: tho there may be found some good thing in us towards the Lord God of <hi>Israel,</hi> some good Desires and Endeavours through his Grace, yet how much have we been wanting in our Duty? If we had not a bet<g ref="char:EOLhyphen"/>ter Righteousness than our own, even the Righteousness of the
+<pb n="20" facs="tcp:205484:13"/> Lord Jesus imputed and reckoned to us, we should be utterly con<g ref="char:EOLhyphen"/>founded, besides original Sin and our many actual Sins; otherwise our failing so much in serving our Generation according to the Will of God, our coming so short in glorifying of God in our Places, and Stations, and Relations, were enough to sink us down to the lowest Hell: The Lord make us truly humble and penitent all our Days, and pardon us, and accept us in Christ.</p>
+            <p>
+               <hi>Ʋse</hi> 2. This <hi>may teach us, for the Time to come, to be earnest with the Lord, to enable us to have this more in our Eye,</hi> to fill up our Work for God in our Day; to serve God in our Places, and Stations, and Relations; to glorify God more than we have done, that short and uncertain Time that remaineth.</p>
+            <p n="1">1. <hi>Always remember that your Time is short and uncertain,</hi> and what you do for the Glory of God in your Day, do it quickly, the Night of Death comes when no Man can work; * <hi>there is no Work, or De<g ref="char:EOLhyphen"/>vice,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cel. 9. 10.</note>
+               <hi>or Knowledg in the Grave whither thou goest;</hi> therefore what your Hand findeth to do, do it with your Might, and do it quickly: All our serving our Generation by doing the Will of God, is only in this Life. It is true, the Saints when they die, they serve God in Hea<g ref="char:EOLhyphen"/>ven, and serve him better, do the Will of God perfectly in Hea<g ref="char:EOLhyphen"/>ven; but 'tis the Living that celebrate him, and praise him, and glorify him in this the lower World: The Saints when they depart this Life, they go to serve God before the Throne, but they can do no more Service here below.</p>
+            <p n="2">2. <hi>Observe in your aiming to serve your Generation, that you study the Word of God, that it may be clear to you that you do the Will of God in what you do. David</hi> served his own Generation by the Will of God, by doing the Will of God: You must take care then that you know what the Will of God is; you must <hi>keep to the written Word, to the ten Commandments, the moral Law, with the Exposition of them in the Scripture.</hi> Many have pretended to serve their Generation; ay, <hi>but they left out the Will of God,</hi> and so have been guilty of gross Immoralities and Extravagances, whereby God and Religion have been greatly dishonoured. Such Persons, and such Acts, instead of serving their Generations, do great disservice to their Genera<g ref="char:EOLhyphen"/>tion; therefore remember this, to <hi>make the Word of God your Rule;</hi> in serving your Generation, is the thing you do according to the Word of God, according to God's Law and Precepts, else God will not accept your interposing and meddling to serve your Generation; tho you have zeal in it, good Intentions do not justify bad Actions.</p>
+            <p n="3">
+               <pb n="21" facs="tcp:205484:13"/> 3. <hi>Go in the strength of the Lord God,</hi> as <hi>David</hi> said, <hi>Psal.</hi> 71. 16. Gonot about the Work of serving your Generation in your own Strength; without Christ we can do nothing graciously and accep<g ref="char:EOLhyphen"/>tably; pray unto God that he would strengthen you, that he would give you Wisdom and Grace to glorify him in your Stations and Relations, to serve your Generations, by doing his Will, that you may finish your Course with joy.</p>
+            <p>The second Observation is, <hi>That the Saints, tho they serve their Ge<g ref="char:EOLhyphen"/>neration by doing the Will of God, tho they have been eminent and useful in their Day, yet they must expect to fall on sleep, to die as well as others.</hi>
+            </p>
+            <p>
+               <hi>David,</hi> tho he was so eminent and useful in his Generation, yet he fell on sleep, he died. <hi>Noah, Abraham,</hi> and the Prophets, <hi>Paul</hi> and the other Apostles, they fell on sleep, they died. Indeed you read of a few Instances, <hi>Enoch</hi> and <hi>Elijah,</hi> that were translated, and did not fall asleep, did not see Death, that was extraordinary; but this is that which must be expected in an ordinary way, that tho the Saints have been never so serviceable in their Generation, yet they must fall asleep and die.</p>
+            <p n="1">1. <hi>The Lord takes away his Servants out of this World, and hides them in the Grave, sometimes because of great Judgments and Calamities that are then present or to come upon the Places where they live,</hi> that their Eyes might not see the Evil. <hi>The Righteous perisheth, and no Man layeth it to</hi>
+               <note place="margin">Isa. 57. 1.</note>
+               <hi>heart; and merciful Men are taken away, none considering that the Righ<g ref="char:EOLhyphen"/>teous is taken away from the Evil to come.</hi> History mentioneth how God hath sometimes taken away faithful Ministers, and others of his Servants, before some great evil Day come.</p>
+            <p n="2">2. <hi>Another Reason why God takes away his Servants out of this World, is, that they may go to their eternal Rest.</hi> Here the Saints are but in a poor Estate, they groan under the Remainders of Sin, they have many Temptations of Satan, they have sometimes great Pains and Diseases upon their Bodies, and are often persecuted by Men; so <note place="margin">Isa. 57. 2.</note> the Lord in his appointed Time takes them out of this sinful and miserable Life, to be with him in Heaven, where they shall not be burdened with Sin or any Affliction any more for ever, but their Bodies shall rest in the Bed of the Grave until the Resurrection, and their Souls rest in the Bed of Glory in Heaven.</p>
+            <p n="3">3. <hi>Sometimes the Lord takes away his Servants, that have been eminent in serving their Generation, that he may shew his Power in raising up o<g ref="char:EOLhyphen"/>thers to carry on his Work.</hi> When <hi>Moses</hi> died, God raised up <hi>Joshua</hi>
+               <pb n="22" facs="tcp:205484:14"/> to carry on the Work, to conduct <hi>Israel</hi> to the promised Land. When <hi>Elijah</hi> was taken away, God raised up <hi>Elisha</hi> to carry on his Work. God will shew that his Hand is not shortned, but that he can raise other Instruments to do his Work. How many have been taken away? The Prophets they are dead, the Apostles they are dead, and yet God hath carried on his Work in the World as it hath pleased him: We must not think that the Work of God shall die with us, he can raise up other Instruments, greater Instruments to carry on his Work. And as for faithful Ministers, surely they pray and desire, that when they are taken away, God would raise up far greater Instruments to carry on the Work of God, they are willing that they may be in that Sense forgotten, and never come into your Minds that you have had a Loss in their being taken from you, because the Lord raises up others that are more service<g ref="char:EOLhyphen"/>able in carrying on the Work than they have been. Lord, grant that it may be so in this Congregation, and in all the Churches, that when the Lord takes away their Ministers, you may have more burning and shining Lights: Grant it to be so, O Lord, for Christ's sake.</p>
+            <p>Lastly, <hi>God sometimes takes away such as have been Eminent in serv<g ref="char:EOLhyphen"/>ing their Generation according to the Will of God, as a Judgment unto the People.</hi> It is noted of the People of <hi>Israel,</hi> that when * <hi>Joshua</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Josh. 2. 7, 8, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 10, 11.</note> was dead, then they degenerated, then the People turned from following the Lord: So it hath been known as to Churches, that when a faithful Minister hath been taken away, then the People have fallen to Errors and Divisions. O that Professors may have † Root <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mat. 13. 20, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Joh. 2. 27.</note> in themselves, sound Understanding, and a Principle of Grace in their own Hearts, that they may not stand upon the Magistrate's Root, upon the Minister's Root, and so when they are taken away you will come to nothing, but that you may have the Anointing to teach you that none may seduce you.</p>
+            <p>
+               <hi>Ʋse</hi> 1. This may teach us to expect, that tho Ministers and others are serviceable and useful in their Generations, yet <hi>they must die; they must be taken from us,</hi> they must leave you, they cannot conti<g ref="char:EOLhyphen"/>nue by reason of Death. The Prophets, do they live for ever? But the Comfort of the Churches and Saints is, that Christ the great Prophet he lives for ever, he continueth, he lives and sees, and cares for his Church, and for every particular Saint, and he will bring the many Sons to Glory.</p>
+            <p>As to Ministers, you must expect that they must go down into
+<pb n="23" facs="tcp:205484:14"/> Silence, and their Voices which you have so often heard in the Con<g ref="char:EOLhyphen"/>gregation, within a while you will hear their Voices no more in this World: And therefore while you have the Light, walk in the Light, improve their Gifts and Grace whilst you have them, that you may be able to say, such a Minister is dead, but, blessed be God, what he hath preached hath been of use to my Soul; he is dead, but the Truth of God which he hath preached lives in my Soul.</p>
+            <p>
+               <hi>Saul</hi> slighted <hi>Samuel</hi> whilst he lived, and hearkned not to his Voice; but when <hi>Samuel</hi> was dead, and <hi>Saul</hi> was in distress, then how he desired that <hi>Samuel</hi> were alive that he might have counsel of him; but then it cannot be, it is in vain to say, O that we had him again.</p>
+            <p>Indeed when a Minister is dead, the People may make this use of his Labours, to remember them that have spoken to them the Word of the Lord; they may remember something of what they said to them whilst they lived, and remember their Way and Conversati<g ref="char:EOLhyphen"/>on, how they endeavoured to preach Christ, to extol Christ, and to be a Pattern of Holiness to you, and this may be of use to you, but you can hear their Voices no more in this World.</p>
+            <p>
+               <hi>Ʋse</hi> 2. This <hi>may teach us to lament and mourn, when God takes away such as have been useful in serving their Generations according to the Will of God;</hi> lay it to heart, judg your selves, humble your selves under the mighty Hand of God, lest God make Breaches more upon us.</p>
+            <p>When <hi>Elijah</hi> was taken away, <hi>Elisha</hi> cried out, <hi>My Father, my Fa<g ref="char:EOLhyphen"/>ther,</hi>
+               <note place="margin">2 King. 2. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>the Chariots of</hi> Israel, <hi>and the Horsemen thereof;</hi> he made account that <hi>Elijah</hi> that was taken away by his praying and preaching, was as great a Strength to <hi>Israel</hi> as their Chariots and Horsemen.</p>
+            <p>And truly I have said so in secret concerning this Man of God now taken from us; I have used these words to my self with much lamentation for his Death: Hear what I shall now say unto you, If any do rejoice and triumph, and scoff at the Death of this faithful Mi<g ref="char:EOLhyphen"/>nister, (as I hear some do) I would have them consider that Passage, 2 Kings 2. 23, 24. <hi>And he went up from thence unto</hi> Beth-el: <hi>and as he was going up by the way, there came forth little Children out of the Ci<g ref="char:EOLhyphen"/>ty, and mocked him, and said, Go up thou bald-Head, go up thou bald-Head. And he turned back, and looked on them, and cursed them in the Name of the Lord: and there came two She-bears out of the Wood, and tare forty and two Children of them.</hi> When <hi>Elijah</hi> was taken to Hea<g ref="char:EOLhyphen"/>ven, and <hi>Elisha</hi> was going unto <hi>Beth-el,</hi> there came forth little Chil<g ref="char:EOLhyphen"/>dren, (but the Original might be translated young Men) and see
+<pb n="24" facs="tcp:205484:15"/> how abusive they were to <hi>Elisha,</hi> say they, <hi>Go up thou bald-Head, go up thou bald-Head;</hi> as if they had said, You conceit your Master is taken up to Heaven, the World is well rid of him; and O that you were gone too, the World would be well rid of you also: they said, <hi>Go up thou bald-Head;</hi> it seems the Prophet was bald, and they mocked him by that natural Infirmity.</p>
+            <p>There will be carnal People and Scoffers at God's Ministers in most Places; they scoffed at <hi>Elijah</hi> that was taken to Heaven, and scoff at <hi>Elisha</hi> that was alive: This must be expected, that some will be so prophane as to scoff at faithful Ministers, and wish them all gone, and think it well to be rid of them all. But see, <hi>ver.</hi> 24. what a Judgment came upon 42 of them, that they were killed with She-Bears; the Prophet <hi>Elisha</hi> looked on them, and cursed them in the Name of the Lord. This was an extraordinary thing, it was un<g ref="char:EOLhyphen"/>der the Old Testament, which was a severer Dispensation as to God's executing of outward Judgments upon Sinners in this Life; and the Prophet <hi>Elisha</hi> did this by an extraordinary Motion and Di<g ref="char:EOLhyphen"/>rection of the Spirit. God forbid that we should thus curse any; no, we bless, and curse not; being defamed, we intreat for Mercy upon others; being persecuted, we suffer it patiently: Therefore all that I say is, the Lord give such a sight of their Sin, give them Repentance and Pardon for Christ's sake.</p>
+            <p>
+               <hi>Ʋse</hi> 3. To <hi>teach us all to expect that we must die, and you know not how soon; therefore give diligence to make your Calling and Election sure:</hi> labour to have a comfortable Assurance that you are in Christ, pardoned and accepted in him, that it shall be well with you to Eternity.</p>
+            <p>You that are in Christ, may think of Death under this <hi>mild soft Notion, as * a falling on sleep:</hi> As 'tis said of <hi>Stephen, he fell asleep;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Acts 7. 60. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Thess. 4. 13, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 15. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7, 18.</note> and the Saints Death is called <hi>a sleeping in Jesus,</hi> a sleeping in Christ. Indeed the separation of Soul and Body is terrible to Nature, Na<g ref="char:EOLhyphen"/>ture will shrink at it: but those that are in Christ, should be as wil<g ref="char:EOLhyphen"/>ling to die, as you are willing at Night when you are weary to go to sleep.</p>
+            <p>'Tis only the Body that sleeps, the Soul of a Believer departs and goes to Heaven, to Paradise, to be with Christ there; there is no Purgatory for the Soul of a Believer to go to when it departs out of the Body, no place of Pain and Suffering to go to, to purge and cleanse the Soul from Sin: Christ purges and cleanses a Believer in this Life by his Blood for Justification, and by his Spirit he purges
+<pb facs="tcp:205484:15"/> them as to Sanctification, as to the Beginnings of Holiness, and in the Soul's Passage from the Body to Heaven all remainders of Sin are taken away, and the Soul made perfectly holy, and fitted for the beatifical Vision; so that as soon as the Soul is <note n="*" place="margin">Luke <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Psal. 1. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> absent from the Bo<g ref="char:EOLhyphen"/>dy, it is present with the Lord, 2 <hi>Cor.</hi> 5. 8. that Day the Saints die on Earth, they go to live in Heaven, their Souls depart out of their Bodies, and go presently to be with Christ.</p>
+            <p>Those that die in Christ, go presently to Heaven; those that die in their Sins, go presently to Hell. <note place="margin">Luk. 16. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>You that are in Christ, you see your Souls go presently to Hea<g ref="char:EOLhyphen"/>ven, and your Bodies sleep in the Dust till the Morning of the Resur<g ref="char:EOLhyphen"/>rection; and then your Bodies shall awake, and Soul and Body shall then be reunited, never to be separated more, but that in Soul and Body you may serve, and praise, and enjoy God to Eternity.</p>
+            <p>
+               <hi>Quest.</hi> But you will say, <hi>Shall not the Bodies of others, the Bodies of those that die in their Sins, be raised again, and their Souls and Bodies be reunited again?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> It shall be so; <hi>The Hour is coming, in the which all that are in the Graves shall hear his Voice, and shall come forth, they that have done good, to the Resurrection of Life, and they that have done evil, to the Resurrection of Damnation,</hi> Joh. 5. 28, 29.</p>
+            <p>Those that die in their Sins, their Bodies are raised at the last Day to their greater Shame and Misery, that they may suffer in their Bodies as well as their Souls to eternity; it calls for a holy <note place="margin">Mat. 10. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> trembling to think of it: O that it may not be the Case of any of us, but that we may be found in Christ.</p>
+            <p>It is said of those that perish, <hi>Psal. 19. 14. Death shall feed upon them.</hi> It is an Observation of one upon that Place to this purpose, That those that die in their Sins, tho they were whilst they lived on Earth great Princes, Potentates and Conquerors, and made a great shew here, yet when they shall be raised at the last Day, tho they have all the Parts and Proportion of Men, yet they shall look like poor shabby things, Death-eaten, Hell-eaten, frightful to look upon; whereas the Bodies of the Saints shall be <note n="*" place="margin">1 Cor. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Phil. 3. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> raised in Glory, and be made like to Christ's glorious Body in their measure.</p>
+            <p>The third Observation is, That <hi>when we die, we are laid to our Fathers, and see Corruption.</hi>
+            </p>
+            <p>There are two Expressions to be briefly opened concerning <hi>David.</hi>
+            </p>
+            <p n="1">
+               <pb n="26" facs="tcp:205484:16"/> 1. <hi>That</hi> David <hi>was laid to his Fathers.</hi>
+            </p>
+            <p>It is said of <hi>Abraham,</hi> Gen. 26. 8. <hi>Then</hi> Abraham <hi>gave up the Ghost, and died in a good old Age, an old Man, and full of Years, and was gathered to his People.</hi> Some understand that Expression, <hi>he was ga<g ref="char:EOLhyphen"/>thered to his People,</hi> to be meant of his Soul, that when by Death there was a separation of Soul and Body, that his Soul was gather<g ref="char:EOLhyphen"/>ed to the Elect and ransomed People that died before him, to that blessed Company in Heaven that were gone before him: whether that be the meaning of that particular Text or no, it is certain that when the Saints die, their Souls are gathered to that People that had the same Spirit of Faith and Holiness when they were upon Earth that they have: It is indeed the chief happiness of the Saints when they die, that then they are present with the Lord, * ever with the <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 5. 8. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hess. 4. 17. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 5. 8.</note> Lord, see God to their everlasting Consolation; all their Graces shall be perfected, and they shall love and praise, serve and enjoy God the Father, Son, and Holy Ghost, three Persons and one God, blessed for evermore: this is the Essence of the Saints Happiness af<g ref="char:EOLhyphen"/>ter Death, to be gathered to the Lord, to hear his Wisdom, to see his Glory, to be satisfied with his Likeness †. But it is a comforta<g ref="char:EOLhyphen"/>ble <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal. 17. 15.</note> Meditation, that the Saints when they die are gathered to that People whose Company they loved and delighted in on Earth; you shall go to the Church Triumphant, to the Communion of the Saints in Heaven: Communion of Saints is sweet here on Earth, in this im<g ref="char:EOLhyphen"/>perfect State, but it will be far sweeter in Heaven, where there will be no Sin, no Error, no Darkness, but the Spirits of just Men are made perfect in Light, and Love, and Holiness.</p>
+            <p>Take notice of this, if you die in your Sins, you will be gathered to that People in Hell that were of the same Spirit with you, that will curse and blaspheme God because of their Torments in Hell, and that hated the Power of Godliness while they lived in this World. If you love the company of Drunkards, Swearers, Scoffers at Religi<g ref="char:EOLhyphen"/>on, it is a bad sign; Would you be gathered to such People in ano<g ref="char:EOLhyphen"/>ther World? would you have your Portion with them? O tremble at the thoughts of it. But if you be called with a holy Calling in this Life, when you die, your Souls shall be gathered to them that have obtained like precious Faith with you, and are gone before you to Heaven; you shall be gathered to that People that believed on the Lord Jesus, that admired the free, effectual, especial and distinguish<g ref="char:EOLhyphen"/>ing Grace of God, in having Mercy on whom he will have Mercy, and shall have a Principle and Heart to sing the new Song, to sing <hi>Hallelujahs</hi> before the Throne for ever.</p>
+            <pb n="27" facs="tcp:205484:16"/>
+            <p>But for this Phrase in the Text concerning <hi>David,</hi> it may signify no more, than that he died and was buried, he went to the Grave as his Fathers had done, he abode in the State of Death as his Fa<g ref="char:EOLhyphen"/>thers had done.</p>
+            <p n="2">2. It is said also here of <hi>David,</hi> that <hi>he saw Corruption,</hi> that is, his Body putrified, consumed, corrupted, and turned to Earth and Dust. Man's Body at first was made of the Dust, <hi>Gen. 2. 7. And the Lord God formed Man of the Dust of the Ground, and breathed into his Nostrils the Breath of Life, and Man became a living Soul:</hi> And when we die, <note n="*" place="margin">Gen. 35. 1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; 3. 19. Eccles. 12. 7.</note> the Soul departeth from the Body, then the Body re<g ref="char:EOLhyphen"/>turneth to the Dust, then the Body corrupts and turneth to Dust a<g ref="char:EOLhyphen"/>gain; but the Soul, the Spirit, is disposed of by God to Heaven or Hell, according to the State of Grace or Sin we are in when it departs out of the Body.</p>
+            <p>The Apostle <hi>Paul</hi> speaking of the Body at Death, when it re<g ref="char:EOLhyphen"/>turneth to the Dust, saith, <hi>It is sown in Corruption,</hi> 1 Cor. 15. 42. as the Seed that the Husbandman sows, it corrupts in the Earth, so do our Bodies; though at the Resurrection, by the Power of God, the Body springeth up again. If you saw a dead Body, if it be not embalmed with odoriferous Spices, and such things, how soon will it smell, putrify and corrupt, how the Worms crawl up and down, and how the whole Body corrupteth and consumeth?</p>
+            <p>But you will say, <hi>What, do the Bodies of the Saints, such as</hi> David, <hi>see Corruption, putrify and consume in the Grave?</hi>
+            </p>
+            <p>I answer, <hi>Yes, as much and as soon as other Men,</hi> there is no dif<g ref="char:EOLhyphen"/>ference in that: When the Lord converts a Man, he works a bles<g ref="char:EOLhyphen"/>sed Change in the Soul, to fear him, love him, delight in him, and serve him, and this Grace goes away with the Soul when we die: what Grace is wrought in your Souls here in this Life, this never corrupts but goes with you to Heaven, yea is perfected in your Pas<g ref="char:EOLhyphen"/>sage to Heaven; but as for your Bodies, they are as they were be<g ref="char:EOLhyphen"/>fore your Conversion, subject to the same Diseases, and when you die, do putrify, corrupt and moulder to Dust, as well as the Bodies of wicked Men, until the Resurrection.</p>
+            <p>
+               <hi>Ʋse.</hi> This <hi>may in the first place humble every one of us before the Lord this Day.</hi> Carry home serious Thoughts of this, you and I must ex<g ref="char:EOLhyphen"/>pect to die, and to see Corruption, and that the Worms will de<g ref="char:EOLhyphen"/>stroy this Body, and we know not how soon. Job 17. 13, 14. <hi>If I wait, the Grave is mine House, and I have made my Bed in the Darkness:
+<pb n="28" facs="tcp:205484:17"/> I have said to Corruption, Thou art my Father; to the Worm, Thou art my Mother, and my Sister.</hi> Live here as those that are continually expecting to go to the Grave; you may have convenient Houses, you may humbly and with thankfulness to God make your Houses convenient, but still you must look daily that <hi>you are to flit, to re<g ref="char:EOLhyphen"/>move:</hi> tho you dwell in your own Houses, you must look upon your self as a Stranger in your own House, you are going to dwell in the Dust, to have the Grave to be your House for the Body, a little House, a dark House. Think daily of this to mortify you to fine and spacious Houses, and to rich Furniture; you must expect to go to a little House, the Grave, a matter of two Yards long will hold you there; and then it is said, <hi>I have made my Bed in the Darkness.</hi> Be not curious about your Beds here to lie in State, do not set forth your Beds with Pomp and State; If God make you able, you may have Beds convenient, and a little handsom; but O no Pomp, no State, but declare by all things, by all your Carriage, that you look upon your selves as Strangers and Pilgrims that have no continuance here. It followeth, <hi>I have said to Corruption, Thou art my Father;</hi> and <hi>to the Worm, Thou art my Mother, and my Sister.</hi> Do not boast of your earthly Parentage and Relations, that they are or were Rich and Honourable; you are going, as to your Bodies, to very mean Relations, to Corruption your Father, to the Worm your Mother and your Sister, these are to be your Relations and Companions in the Grave.</p>
+            <p>Truly we are too curious in our Houses and Furniture, and in our Habit, and setting forth our Bodies, that must return we know not how soon to the Dust, and see Corruption.</p>
+            <p>O but some may say, <hi>This is a Damp upon our Spirits, and if we had often such Meditations, it would make us mopish and melancholy, and take away the Comfort of our Lives.</hi>
+            </p>
+            <p>I answer, <hi>Those that are wicked, those that are not converted and par<g ref="char:EOLhyphen"/>doned in Christ, they should be daunted,</hi> they should mourn and trem<g ref="char:EOLhyphen"/>ble; 'tis the way that God doth ordinarily take when he is about <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s 2. 37. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 5. 1.</note> to convert a Soul, to put them into sadness, and fear, and trem<g ref="char:EOLhyphen"/>bling: And let all that allow themselves to go on in their profane <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. 25. 41, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. 9. 43, 43. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hess. 1. 7, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 20. 10, 15. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e 16. 22, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 24.</note> Courses consider, That <hi>the Holy Scriptures, in sundry places, sets more before them to amaze them, to affright them, to make them tremble, than this that I am now speaking of,</hi> that at Death the Body turneth to Dust and Corruption; for the Word telleth us, That <hi>those that die in their Sins, * shall go into everlasting Punishment, shall be cast into
+<pb facs="tcp:205484:17"/> Hell, where their Worm dieth not, and the Fire goes not out: They shall be punished with everlasting Destruction from the Presence of the Lord, and from the Glory of his Power, shall be cast into the Lake of Fire and Brimstone, which is the second Death.</hi> And you are not only to con<g ref="char:EOLhyphen"/>sider into what a poor, low and forlorn Estate your Bodies go when you die, when you come to the Grave and see Corruption; but think much more into what a miserable Place and State your Souls must go as soon as they go out of your Bodies at Death: If you die in your Sins, then your Souls will be haled to the Prison of Hell, to the Place of Torment; and at the Resurrection your Bo<g ref="char:EOLhyphen"/>dies will be raised out of the Grave, out of the Dust, reunited to your Souls, that so in Soul and Body you will be punished to all Eternity: therefore never talk of this, that if you be serious to think of these things, it will damp your Spirits, take you off from your carnal Mirth and Jollity; better be afflicted and mourn here a little while, than to mourn, and howl, and weep, and gnash your Teeth to all Eternity. Therefore repent, and be con<g ref="char:EOLhyphen"/>verted, flee from the Wrath to come; now lay to heart your E<g ref="char:EOLhyphen"/>state, lie low before God, acknowledg that he is Righteous, tho he should take Vengeance upon you for ever. Now make to Jesus Christ to justify you by his Merit, and to sanctify you by his Spi<g ref="char:EOLhyphen"/>rit, that you may be pardoned, and that it may go well with you for ever.</p>
+            <p>And you that are in Christ, though this Meditation of your going to the House and Bed of the Grave be irksome and frightful to Nature, yet <hi>through Christ you may rejoice in the Meditation of Death for all this,</hi> it is gain for a Believer to die, <note n="*" place="margin">Phil. 1. 21, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2 Cor. 5. 1, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and you may desire to depart and to be with Christ.</p>
+            <p>What though the Body goes to the House and Bed of the Grave, <hi>the Body is insensible and feels nothing when the Soul departs;</hi> it is as well for your Bodies to lie in this poor House of the Grave, as if you were in a stately Palace; as sweet and easy for the Body to lie in the Dust, as if you lay in a Bed of Roses: I say the Body then feels no cold, feels no pain by the Worms that pierce the Flesh; the Body is then altogether insensible, and you that are in Christ, your Souls go presently to Heaven, to rejoice, to triumph, to praise God before the Throne; and these Bodies shall be raised to Glory at the last Day, to die no more, to see corruption no more, that so in Soul and Body you may enjoy and praise God to Eternity. Therefore <hi>take one thing with another, and those that are in
+<pb facs="tcp:205484:18"/> Christ are not to have a slavish fear of Death, the Meditation of Death may be sweet to you.</hi>
+            </p>
+            <p>Use 2. <hi>This may teach us all to look after the Salvation of our Souls; David</hi> in the Text he died, and as to his Body he saw Corruption, and <hi>so must all Saints expect, but those that are alive at Christ's second coming, * they shall not sleep the sleep of Death, they shall not die, they</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 15. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 52. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Thess. 4. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 17.</note>
+               <hi>shall not see Corruption, but their Bodies shall be changed and fitted for Glory in a Moment, in the twinkling of an Eye:</hi> that is an extraordi<g ref="char:EOLhyphen"/>nary Privilege to those Saints that are then living upon the Earth at the second coming of Christ; but in the mean while we must ex<g ref="char:EOLhyphen"/>pect to sleep the sleep of Death, and that our Bodies will corrupt and moulder to Dust in the Grave. Therefore all of you look after the Salvation of your immortal Souls, that when your Bodies die, and go to consume in the Grave, that your Souls may not go to be consuming in Hell, and yet never be so consumed, but to be kept up in Being by the Power and Justice of God, so as to continue in a miserable Being under the Wrath of God for ever.</p>
+            <p>Use 3. <hi>This may teach us the Preheminence of the holy Body of our Lord Jesus above the Body of</hi> David, <hi>or the Bodies of any other Saints that die; David</hi>'s Body saw Corruption, but our Lord Jesus whom God raised up, his Holy Body saw no Corruption. The Body of our Lord Jesus was an Holy thing, never defiled with the least Sin; our Bodies are vile by reason of Sin: indeed he bare our Sins in his Holy Body, upon the Tree, upon the Cross, 1 <hi>Pet.</hi> 2. 24. to make satisfaction for our Sins; that Holy Soul and Holy Body which were personally united to the second Person of the Blessed Trinity, suffered unto Death; and his Body was buried, but the third Day he was raised up and saw no Corruption.</p>
+            <p>Thus I have endeavoured to open this Text to you, upon this sad occasion of the Death of this Man of God. I have spoken something here and there of him in my Discourse already, let me say a little more of him, and so conclude.</p>
+            <p>This Servant of God who is taken from us, <hi>he was a burning and shining Light in this City many Years, and we rejoiced in his Light, his Works praise him in the Gate; he was a spiritual Father to beget many Souls to Christ by the Gospel, he was eminent in the Grace of Love to Saints as Saints. I heard him say many Years since, that in his younger
+<pb n="31" facs="tcp:205484:18"/> Years he could not bear with those who differed in Judgment from him, but he saw that in this imperfect State it could not be expected that Chri<g ref="char:EOLhyphen"/>stians should be of the same judgment in every thing, and that he had now learned to love and honour all that were sound in the fundamen<g ref="char:EOLhyphen"/>tal Doctrines of Religion, and were for Holiness, and the power of God<g ref="char:EOLhyphen"/>liness. He was another</hi> Apolo, <hi>mightily in the Scriptures; he was an In<g ref="char:EOLhyphen"/>terpreter one among a Thousand; he was a great Divine; he was ex<g ref="char:EOLhyphen"/>cellent in cases of Conscience; he preached much, and yet wrote many useful Books.</hi> Methinks our Hands in this City, by the Death of this Servant of God, are feeble and weak, the Lord strengthen us, the Lord make up this great loss to this City, make up this great loss to the Congregation he ministred to, the Lord make up this loss to his Family. Others of us that labour in the Gospel grow Old, and are waiting for a good Hour, when God of his in<g ref="char:EOLhyphen"/>finite Mercy in Christ, will take us to himself in Heaven, our e<g ref="char:EOLhyphen"/>verlasting Rest; and though we die one after another, yet we pray and hope that God will be with you, and conduct you to the Heavenly <hi>Canaan,</hi> to your everlasting Rest. My Grief and Tears stop my Speech concerning this good Minister of Jesus Christ; he was dear to me as my own Soul, but can we bring him back again? We shall go to him, but he shall not return to us; he is gone to the innumerable company of Angels, to the Spirits of just Men made perfect, and to Jesus the Mediator, to be with him where he is to behold his Glory. This Holy Man, this Gracious Man, after he had as a Christian, and as a Minister, served his own Generation by doing the Will of God, is fallen a sleep in Jesus. The Lord help us that are alive and remain, in our several Places and Stations to serve and glorify him in our Generation; and when we have finish<g ref="char:EOLhyphen"/>ed our Course, receive us to his Glory, through Jesus Christ our Lord. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:205484:19"/>
+            <head>A Catalogue of Books printed for, and are to be sold by <hi>Edward Giles,</hi> Bookseller in <hi>Norwich,</hi> near the Market-place.</head>
+            <p>SEveral Discourses concerning Actual Providence.</p>
+            <p>A Word in Season.</p>
+            <p>Defensive Armour against Four of Satan's most fiery Darts.</p>
+            <p>Sermons upon the whole <hi>1st</hi> and <hi>2d</hi> Chapter of <hi>Canticles.</hi>
+            </p>
+            <p>Thirteen Sermons upon several useful Subjects. All published by <hi>John Collinges,</hi> D. D. of <hi>Norwich.</hi>
+            </p>
+            <p>The Way of the Spirit in bringing Souls to Christ.</p>
+            <p>The Glory of Christ set forth, with the Necessity of Faith: In several Sermons. Both by Mr. <hi>Thomas Allen,</hi> late Pastor of a Church at <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>Enoch</hi>'s Walk with God and Christ, a Christian's Gain. By Mr. <hi>Timothy Armitage,</hi> late Minister in <hi>Norwich.</hi>
+            </p>
+            <p>A Discourse of the Preciousness of Christ, and of the Preciousness of Faith.</p>
+            <p>Precious Promises the Portion of Overcomers.</p>
+            <p>Sermons on five several useful Subjects. All by Mr. <hi>John Longher,</hi> Minister in <hi>Norfolk.</hi>
+            </p>
+            <p>The Saint's <hi>Ebenezer.</hi> By Mr. <hi>Francis English,</hi> late Minister in <hi>Norwich.</hi>
+            </p>
+            <p>Directions to spell English right.</p>
+            <p>The History of the Protestant Reformation, as it was begun by <hi>Luther.</hi>
+            </p>
+            <p>The dead Saints speaking: Being a Sermon preached upon the Death of Mr. <hi>New<g ref="char:EOLhyphen"/>comb,</hi> of <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adham</hi> in <hi>Essex.</hi>
+            </p>
+            <p>The English Presbyterian.</p>
+            <p>The Miracles of Christ.</p>
+            <p>The ordinary Matter of Prayer, drawn into Questions and Answers.</p>
+            <p>Two Treatises: The first, Of Rejoicing in the Lord Jesus in all Cases and Conditions. The second, Of a Christian's Hope in Heaven, and freedom from Condemnation by Christ. Both by Mr. <hi>Rober Asty,</hi> late Minister of Jesus Christ in <hi>Norwich.</hi>
+            </p>
+            <p>Obedience to Magistrates: Recommended in a Sermon preached <hi>Septemb.</hi> 9. 1683. being the Thanksgiving-Day for his Majesty's Deliverance. By <hi>Jonathan Clapham,</hi> Rector of <hi>Wramplingham</hi> in <hi>Norfolk.</hi>
+            </p>
+            <p>A Present for Youth, and an Example for the Aged: Two Discourses, One of Spi<g ref="char:EOLhyphen"/>ritual Blessings; the other, That God hath an high Account of the least Grace in the Saints. By Mr. <hi>John Cromwell,</hi> late Pastor of a Church of Christ in <hi>Norwich.</hi>
+            </p>
+            <p>Infant-Baptism of Christ's Appointment. By Mr. <hi>Samuel Petto,</hi> Minister of the Gospel in <hi>Sudbury</hi> in <hi>Suffolk.</hi>
+            </p>
+            <p>Of the Conversion of Sinners to God, in Christ; the Necessity, Nature, Means and Signs of it: With a Concluding Speech to the Unconverted.</p>
+            <p>An Answer to Mr. <hi>Thomas Grantham</hi>'s Book, called A Dialogue between the Baptist and Presbyterian. Both by <hi>Martin Finch,</hi> Pastor of a Church of Christ in <hi>Norwich.</hi>
+            </p>
+            <p>Sincerity: <hi>Or,</hi> The Upright Man's Walk to Heaven: Delivered in several Sermons in the Parish-Church of St. <hi>Michael,</hi> in <hi>Long-stratten,</hi> in <hi>Norfolk.</hi> By <hi>James Oldfield,</hi> late Minister there.</p>
+            <p>
+               <hi>Alexipharmacon Spirituale:</hi> Being a Defensative against the Poison and Sting of Death: <hi>Or,</hi> The great Expedient how to make the Bed of the Grave so easy, that we may lie down in Peace, and take our Rest. By <hi>Samuel Snowden,</hi> Minster of the Gospel at <hi>Newton</hi> in <hi>Norfolk.</hi>
+            </p>
+            <p>Christ set forth: In several Sermons, upon the <hi>7th</hi> Chapter to the <hi>Hebrews.</hi> By Mr. <hi>Robert Ottes,</hi> late Pastor to a Congregation in <hi>Beckles</hi> in <hi>Suffolk.</hi>
+            </p>
+            <p>Sacramental Discourses on several select Subjects. To which is added <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
